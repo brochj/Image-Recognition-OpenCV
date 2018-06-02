@@ -4,9 +4,9 @@
 
 
 ## References
-1. [thecodacus][thecodacus]
+1. [THE CODACUS; Face Recognition Using OpenCV | Loading Recognizer][thecodacus]
 
 
 
 
-[thecodacus]: https://thecodacus.com/face-recognition-loading-recognizer/#.WxKmw45ErDc "thecodacus"
+[thecodacus]: https://thecodacus.com/face-recognition-loading-recognizer/ "thecodacus"
