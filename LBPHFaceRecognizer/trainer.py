@@ -38,4 +38,4 @@ def getImagesAndLabels(path):
 
 faces,Ids = getImagesAndLabels('dataSet')
 recognizer.train(faces, np.array(Ids))
-recognizer.write('trainner/trainner.yml')
+recognizer.write('trainer/trainer.yml')
