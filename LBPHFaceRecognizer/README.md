@@ -1,4 +1,4 @@
-<xmp>{% include trainer.py}</xmp>
+<xmp>{% include trainer.py %}</xmp>
 <code>{% include trainer.py}</code>
 
 
