@@ -1,4 +1,4 @@
-#theme: jekyll-theme-leap-day
+theme: jekyll-theme-leap-day
 
 # Welcome to Jekyll!
 #
@@ -20,7 +20,7 @@ title: Basically Basic
 email: dugan.nash@mailinator.com
 description: "Your new default Jekyll theme"
 baseurl: "/example"  # the subpath of your site, e.g. /blog
-url: ""  # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://brockzera.github.io/Image-Recognition-OpenCV"  # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Dugan Nash
   twitter: Towlette_Pettetucci
@@ -41,52 +41,3 @@ algolia:
 liquid:
   error_mode: strict
 
-# Build settings
-markdown: kramdown
-theme: jekyll-theme-leap-day
-plugins: # previously gems
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-feed:
-  path: atom.xml
-
-# Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
-paginate_path: /page:num/
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Collections
-collections:
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-
-# Front Matter Defaults
-defaults:
-  # _posts
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      read_time: true
-  # _recipes
-  - scope:
-      path: "_recipes"
-      type: recipes
-    values:
-      layout: post
-      read_time: true
