@@ -1,4 +1,4 @@
-
+{% include toc.html html=content %}
 # MENU
 
 - [Image Recognition OpenCV](https://brockzera.github.io/Image-Recognition-OpenCV)
