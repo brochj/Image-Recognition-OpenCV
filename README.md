@@ -1,10 +1,12 @@
+---
 # [HOME](https://brockzera.github.io/Image-Recognition-OpenCV)
+---
 
 ## [LBPHFaceRecognizer](https://brockzera.github.io/Image-Recognition-OpenCV/LBPHFaceRecognizer/)
 
 ## [EigenFaceRecognizer](https://brockzera.github.io/Image-Recognition-OpenCV/EigenFaceRecognizer/)
 
-===
+---
 
 ## Welcome to GitHub Pages
 
