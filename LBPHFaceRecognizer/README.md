@@ -1,4 +1,4 @@
-<xmp>{% include ./trainer.py %}</xmp>
+
 <xmp>@import url("https://raw.githubusercontent.com/Brockzera/Image-Recognition-OpenCV/master/LBPHFaceRecognizer/trainer.py")</xmp>
 
 
