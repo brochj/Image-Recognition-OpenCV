@@ -9,8 +9,8 @@ import cv2
 import numpy as np
 
 recognizer = cv2.face.LBPHFaceRecognizer_create()
-recognizer.read('trainner/trainner.yml')
-cascadePath = "haarcascade_frontalface_default.xml"
+recognizer.read('trainer/trainer.yml') # arquivo que foi gerado pelo trainer.py baseado no dataset das pessoas que quero reconhecer
+cascadePath = "haarcascade_frontalface_default.xml" #arquivo treinado para recocenher faces frontais
 faceCascade = cv2.CascadeClassifier(cascadePath);
 
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
