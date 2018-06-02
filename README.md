@@ -1,6 +1,3 @@
----
-title: OW
----
 
 # [HOME](https://brockzera.github.io/Image-Recognition-OpenCV)
 
