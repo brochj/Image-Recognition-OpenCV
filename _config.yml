@@ -1,4 +1,4 @@
-theme: jekyll-theme-leap-day
+#theme: jekyll-theme-leap-day
 
 # Welcome to Jekyll!
 #
@@ -43,7 +43,7 @@ liquid:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
+theme: jekyll-theme-leap-day
 plugins: # previously gems
   - jekyll-feed
   - jekyll-seo-tag
