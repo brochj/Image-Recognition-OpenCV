@@ -1,4 +1,5 @@
 <xmp>{% include trainer.py}</xmp>
+<code>{% include trainer.py}</code>
 
 # Welcome to GitHub Pages
 
