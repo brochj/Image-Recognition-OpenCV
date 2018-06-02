@@ -1,11 +1,12 @@
 
 # MENU
 
-# [HOME](https://brockzera.github.io/Image-Recognition-OpenCV)
+- [Image Recognition OpenCV](https://brockzera.github.io/Image-Recognition-OpenCV)
 
-- ## [LBPHFaceRecognizer](https://brockzera.github.io/Image-Recognition-OpenCV/LBPHFaceRecognizer/)
+- [LBPHFaceRecognizer](https://brockzera.github.io/Image-Recognition-OpenCV/LBPHFaceRecognizer/)
+  - [dataset](https://brockzera.github.io/Image-Recognition-OpenCV/LBPHFaceRecognizer/)
 
-- ## [EigenFaceRecognizer](https://brockzera.github.io/Image-Recognition-OpenCV/EigenFaceRecognizer/)
+- [EigenFaceRecognizer](https://brockzera.github.io/Image-Recognition-OpenCV/EigenFaceRecognizer/)
 
 # Welcome to GitHub Pages
 
