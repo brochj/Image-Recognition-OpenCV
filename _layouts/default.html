@@ -22,8 +22,8 @@
     </section>
 
     <section class="main-content">
-      {% include toc.html html=content %}
-      {{ content }}
+      
+      {{ content }{% include toc.html html=content %}}
       
       <footer class="site-footer">
         {% if site.github.is_project_page %}
