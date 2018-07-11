@@ -33,6 +33,8 @@
 
 
 
+
+
 # Referências
 
 ## I - Dissertações
@@ -92,14 +94,14 @@ Real Time Embedded System](https://drive.google.com/drive/folders/13h7VvLGrVAD64
 	>"In this paper, we propose a non-intrusive, **videobased system for vehicle speed measurement** in urban roadways. Our system uses an optimized motion detector and a novel text detector to efficiently locate vehicle license plates in image regions containing motion. Distinctive features are then selected on the license plate regions, tracked across multiple frames, and rectified for perspective distortion. Vehicle speed is measured by comparing the trajectories of the tracked features to known real world measures. The proposed system was tested on a data set containing approximately five hours of videos recorded in different weather conditions by a single low-cost camera, ... . **The measured speeds have an average error of -0.5 km/h, staying inside the [-3,+2] km/h limit determined by regulatory authorities**..."
 
 ---
-## TCCs
+## IV - TCCs
 
 1. [**TCC**, 53 pág., 2016] - [Robô móvel com visão computacional usando a **biblioteca OpenCV** para seguimento de linha](http://www.cear.ufpb.br/arquivos/cgee/TCC/TCC_-_PEDRO_HENRIQUE_MEIRA_DE_ANDRADE.pdf)
 
 	>" A plataforma utilizada é um pequeno robô móvel e dotado de uma câmera, capaz de seguir uma linha no chão. O controle cinemático é implementado em uma Raspberry Pi que também é responsável pelo processamento da imagem. A grande vantagem dessa metodologia é que com a câmera o robô pode adiantar prováveis curvas e alterar a velocidade e posição conforme a trajetória, tornando o movimento mais eficaz. Foi utilizada a **biblioteca OpenCV** que é a base para todo o tratamento da imagem e por consequência, do controle de velocidade e direção. O **acionamento dos motores** e a leitura dos sensores foram feitos usando a plataforma Arduino interligado a Raspberry Pi.
 
 ---
-## Tutoriais e Projetos
+## V - Tutoriais e Projetos
 
 1. [**Tutorial**, 2017] - [Object Tracking using OpenCV (C++/Python)](https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/)
 
@@ -126,7 +128,7 @@ Real Time Embedded System](https://drive.google.com/drive/folders/13h7VvLGrVAD64
 	>- Claude Paeau's [YouTube video](https://www.youtube.com/watch?v=eRi50BbJUro) on motion tracking in his front yard was what got me started down this road. His code walkthrough helped me get started.
 
 ---
-## Livros
+## VI - Livros
 
 1. [**Livro**, 1999] - [Processamento Digital de Imagem](http://www.ogemarques.com/wp-content/uploads/2014/11/pdi99.pdf)
 
