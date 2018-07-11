@@ -31,6 +31,8 @@
 
 
 
+
+
 # Referências
 
 ## I - Dissertações
@@ -85,7 +87,7 @@ Real Time Embedded System](https://drive.google.com/drive/folders/13h7VvLGrVAD64
 
 ---
 6. [**Artigo**, UTFPR, 2016] - [A Video-Based System for Vehicle Speed Measurment in Urban Roadways	](http://www.dainf.ct.utfpr.edu.br/~rminetto/projects/vehicle-speed/Paper_ITS_final.pdf)  
-**[10/07 - Broch] _- Bem interessante, apresenta toda a metodologia de como funciona o radar e depois compara os resultados com um radar de _Loop_ já instalado. Foi feito por professores da UTFPR de Curitiba. Nesse [SITE](http://www.dainf.ct.utfpr.edu.br/~rminetto/projects/vehicle-speed/) está disponível o DATASET e Códigos utilizados._**
+**[10/07 - Broch] _- Bem interessante, apresenta toda a metodologia de como funciona o radar e depois compara os resultados com um radar de Loop já instalado. Foi feito por professores da UTFPR de Curitiba. Nesse [SITE](http://www.dainf.ct.utfpr.edu.br/~rminetto/projects/vehicle-speed/) está disponível o DATASET e Códigos utilizados._**
 
 	>"In this paper, we propose a non-intrusive, **videobased system for vehicle speed measurement** in urban roadways. Our system uses an optimized motion detector and a novel text detector to efficiently locate vehicle license plates in image regions containing motion. Distinctive features are then selected on the license plate regions, tracked across multiple frames, and rectified for perspective distortion. Vehicle speed is measured by comparing the trajectories of the tracked features to known real world measures. The proposed system was tested on a data set containing approximately five hours of videos recorded in different weather conditions by a single low-cost camera, ... . **The measured speeds have an average error of -0.5 km/h, staying inside the [-3,+2] km/h limit determined by regulatory authorities**..."
 
@@ -115,13 +117,14 @@ Real Time Embedded System](https://drive.google.com/drive/folders/13h7VvLGrVAD64
 	**[11/07 - Broch] _- Esse site [www.pyimagesearch.com](https://www.pyimagesearch.com/) é bom, tem vários tutoriais, a maioria tudo relacionado a processamento de imagem utilizando a bib OpenCV em Python._**
 
 ---
-4. [**Projeto Github**,2016] - [**Speedtrack** - Python + OpenCV tool to count cars on the road in front of my house](https://github.com/iandees/speedtrack)
+4. [**Projeto Github**, 2016] - [**Speedtrack** - Python + OpenCV tool to count cars on the road in front of my house](https://github.com/iandees/speedtrack)
 
 	>"Capture a frame of RGB video from the webcam. Convert it to HSV and pick out only the Value channel to convert to grayscale. After converting to grayscale, apply a blur function and add the frame to the running average of the scene."
 
 	>**Prior Art and Helpful Information**
-	>- Kyle Hounslow has an excellent set of YouTube tutorials on OpenCV. His [tutorial on Method of Sequential Images](https://www.youtube.com/watch?v=X6rPdRZzgjg) was a big help in getting started.
+	>- Kyle Hounslow has an excellent set of YouTube tutorials on OpenCV. His [tutorial on Method of Sequential Images](https://www.youtube.com/watch?v=X6rPdRZzgjg) was a big help in getting started.  
 	>- Claude Paeau's [YouTube video](https://www.youtube.com/watch?v=eRi50BbJUro) on motion tracking in his front yard was what got me started down this road. His code walkthrough helped me get started.
+
 ---
 ## Livros
 
